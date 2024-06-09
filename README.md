@@ -1,6 +1,6 @@
 # Reddit scraper
 
-This repo contains a simple library `reddit_scraper` and walkthrough notebook  `reddit_scraper_walkthrough.ipynb` that illustrates how to scrape simple statistics from reddit using [grequests](https://github.com/spyoungtech/grequests) and sqlite.
+This repo contains a simple library `reddit_scraper` and walkthrough notebook  `reddit_scraper_walkthrough.ipynb` that illustrates how to scrape simple statistics from reddit using [grequests](https://github.com/spyoungtech/grequests), [schedule](https://schedule.readthedocs.io/en/stable/) and sqlite.
 
 ## Install instructions
 
