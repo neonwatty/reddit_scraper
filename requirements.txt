@@ -1,9 +1,8 @@
 grequests
 beautifulsoup4
-boto3
-python-dotenv
 dash
 dash-bootstrap-components
 pandas
 plotly
 schedule
+streamlit
