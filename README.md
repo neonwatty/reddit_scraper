@@ -1,3 +1,5 @@
+<a href="https://colab.research.google.com/github/jermwatt/reddit_scraper/blob/main/reddit_scraper_walkthrough.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 # Reddit scraper
 
 Scrape reddit using grequests, schedule, dash, and sqlite.
